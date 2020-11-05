@@ -16,7 +16,7 @@
 
 
 <details align="center">  
-    <summary> <b> <samp>Skills</samp></b></summary>
+    <summary> <b> <samp>Technologies I currently work on</samp></b></summary>
       <dl align="center">
          <dt>Languages :</dt>
          <dd>- Java, Python, TypeScript, JavaScript</dd>
@@ -51,9 +51,9 @@
          <a href="mailto:nnudalov@gmail.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-         <a href="https://discord.gg/forichok">
+<!--          <a href="https://discord.gg/forichok">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
+         </a> -->
          <a href="https://play.google.com/store/apps/developer?id=AqulaSoft">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a>
