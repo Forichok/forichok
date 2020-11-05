@@ -1,12 +1,19 @@
 <p align="center">
     <br>
     <samp>
-        Hello there! Welcome to <b><a href="https://iiwowks.github.io/">Forichok</a>'s GitHub</b>.
-<!--         <br> I’m currently learning <b>vue.js & java</b> -->
+        Hello there! Welcome to <b><a href="https://forichok.com">Forichok</a>'s GitHub</b>.
         <br>
     </samp>
-                  <img align="middle" alt="Forichok's github stats" width=400 src="https://github-readme-stats.vercel.app/api?username=forichok&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&theme=buefy"/>
+    <img align="middle" alt="Forichok's github stats" width=400 src="https://github-readme-stats.vercel.app/api?username=forichok&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&theme=buefy"/>
 </p>
+<p align="center">
+    <br>
+    <samp>
+        Download my Android app - <b><a href="https://play.google.com/store/apps/details?id=com.woiandforgmail.handwriter">HandWriter</a></b>. It's a free handwritten document generator.
+        <br>
+    </samp>
+</p>
+
 
 <details align="center">  
     <summary> <b> <samp>Skills</samp></b></summary>
@@ -17,7 +24,7 @@
          <dd>- React, React Native, Bootstrap, Atlassian Plugin SDK, Android SDK, aiohttp, Telegram API
          </dd>
       </dl>
-  </details>  
+  </details>
 
 <details align="center">
     <summary> <b> <samp> Most used languanges by GitHub stats</samp></b></summary>
@@ -26,20 +33,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=forichok&hide_title=true&layout=compact" />
     </samp>
 </details>
-
-<!-- <details align="center">
-    <summary> <b> <samp> Current project </samp></b></summary>
-
-<a style="text-decoration: none" align="left" href="https://github.com/iiwowks/iiwowks.github.io">
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=iiwowks.github.io&show_owner=true" />
-    </a>
-
-<a align="left" href="https://github.com/iiwowks/vue-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iiwowks&repo=vue-demo&show_owner=true" />
-</a>
-</details> -->
-
 
 <h2 align="center">Contact me on</h2>
       <h2 align="center">
