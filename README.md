@@ -16,7 +16,7 @@
 
 
 <details align="center">  
-    <summary> <b> <samp>Skills</samp></b></summary>
+    <summary> <b> <samp>Technologies I currently work on</samp></b></summary>
       <dl align="center">
          <dt>Languages :</dt>
          <dd>- Java, Python, TypeScript, JavaScript</dd>
