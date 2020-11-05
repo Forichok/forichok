@@ -37,24 +37,24 @@
 <h2 align="center">Contact me on</h2>
       <h2 align="center">
          <a href="https://telegram.me/forichok">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/Telegram_black.png" width="32" height="32"/>
+         </a>
+         <a href="https://vk.com/forichok">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/VK_black.png" width="32" height="32"/>
          </a>
          <a href="https://twitter.com/forichok">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/Twitter_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.linkedin.com/in/forichok">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.instagram.com/forichok">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
          <a href="mailto:nnudalov@gmail.com">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-<!--          <a href="https://discord.gg/forichok">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a> -->
          <a href="https://play.google.com/store/apps/developer?id=AqulaSoft">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
+         <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a>
       </h2>
