@@ -21,7 +21,7 @@
          <dt>Languages :</dt>
          <dd>- Java, Python, TypeScript, JavaScript</dd>
          <dt>Frameworks or Technologies :</dt>
-         <dd>- React, React Native, Bootstrap, Atlassian Plugin SDK, Android SDK, aiohttp, Telegram API
+         <dd>- React, React Native, Bootstrap, Atlassian Plugin SDK, Android SDK, aiohttp, Telegram API, Docker, CI/CD, Apache/nginx
          </dd>
       </dl>
   </details>
