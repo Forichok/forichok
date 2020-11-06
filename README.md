@@ -70,3 +70,6 @@
          <img src="https://github.com/forichok/forichok/blob/main/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a>
       </h2>
+
+
+![Profile views](https://gpvc.arturio.dev/Forichok)
