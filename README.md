@@ -10,10 +10,22 @@
     <br>
     <samp>
         Download my Android app - <b><a href="https://play.google.com/store/apps/details?id=com.woiandforgmail.handwriter">HandWriter</a></b>. It's a free handwritten document generator.
+    </samp>
+</p>
+
+<p align="center">
+    <samp>
+        Telegram bot for spam-filtering and group managment <b><a href="https://github.com/aqulasoft/orderkeeper">Order Keeper</a></b>.
         <br>
     </samp>
 </p>
 
+<p align="center">
+    <samp>
+        Telegram user online status logger <b><a href="https://github.com/Forichok/TelegramOnlineSpy">TelegramOnlineSpy</a></b>.
+        <br>
+    </samp>
+</p>
 
 <details align="center">  
     <summary> <b> <samp>Technologies I currently work on</samp></b></summary>
