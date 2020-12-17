@@ -15,7 +15,7 @@
 
 <p align="center">
     <samp>
-        Telegram bot for spam-filtering, translation and group managment <b><a href="https://github.com/aqulasoft/TelegramWarden">TelegramWarden</a></b>.
+        Telegram bot for spam-filtering, translation, group managment <b><a href="https://github.com/aqulasoft/TelegramWarden">TelegramWarden</a></b>.
         <br>
     </samp>
 </p>
