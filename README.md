@@ -22,7 +22,7 @@
 
 <p align="center">
     <samp>
-        Discord Yandex Music Player< <b><a href="https://github.com/aqulasoft/DisYam">TelegramOnlineSpy</a></b>.
+        Discord Yandex Music Player< <b><a href="https://github.com/aqulasoft/DisYam">DisYam</a></b>.
         <br>
     </samp>
 </p>
