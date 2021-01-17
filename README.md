@@ -38,9 +38,9 @@
     <summary> <b> <samp>Technologies I currently work on</samp></b></summary>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- Java, Python, TypeScript, JavaScript</dd>
+         <dd>- Mainly: Typescript/Java</dd>
          <dt>Frameworks or Technologies :</dt>
-         <dd>- React, React Native, Bootstrap, Atlassian Plugin SDK, Android SDK, aiohttp, Telegram API, Docker, CI/CD, Apache/nginx
+         <dd>- Whatever I need
          </dd>
       </dl>
   </details>
