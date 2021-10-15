@@ -9,7 +9,7 @@
 
 <p align="center">
     <samp>
-        Main pet project a.k.a micro-service web application a.k.a sandbox for skill enhancement <b><a href="https://handwriter.ru">handwriter.ru</a></b>
+        Main pet project a.k.a micro-service web application a.k.a sandbox for skill enhancement a.k.a <b><a href="https://handwriter.ru">handwriter.ru</a></b>
         <br>
     </samp>
 </p>
