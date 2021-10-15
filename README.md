@@ -6,6 +6,14 @@
     </samp>
     <img align="middle" alt="Forichok's github stats" width=400 src="https://github-readme-stats.vercel.app/api?username=forichok&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&theme=buefy"/>
 </p>
+
+<p align="center">
+    <samp>
+        Main pet project a.k.a micro-service web application a.k.a sandbox for skill enhancement <b><a href="https://handwriter.ru">handwriter.ru</a></b>
+        <br>
+    </samp>
+</p>
+
 <p align="center">
     <br>
     <samp>
