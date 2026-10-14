@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" aria-label="37 stars: every repository of Forichok, oldest in the centre">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300" role="img" aria-label="39 stars: every repository of Forichok, oldest in the centre">
 <style>
 .s{fill:#1b2a4a;opacity:0;animation:appear .5s ease-out forwards}
 .fork{fill:none;stroke:#1b2a4a;stroke-width:1}
@@ -113,51 +113,53 @@
 <circle class="s tw" cx="709.3" cy="268.1" r="0.7" fill-opacity=".3" style="animation-delay:1.20s,1.85s"/>
 <circle class="s tw" cx="266.8" cy="17.9" r="0.7" fill-opacity=".3" style="animation-delay:0.57s,1.83s"/>
 <circle class="s tw" cx="646.9" cy="40.2" r="0.5" fill-opacity=".3" style="animation-delay:1.11s,0.01s"/>
-<path class="path" d="M352.3 141.8 L379.6 134.4 L390 136.9 L412.7 143.6 L413.1 147.9 L422 158.8 L414.4 171.4 L404.1 179.4 L378.5 191.9 L336.7 196.3 L291.7 188.6 L266.6 180.8 L246.1 162.1 L237.6 145.4 L239.4 113.3 L273.4 94.6 L325.1 83.8 L372.6 83 L436.2 88.1 L488.3 104.7 L532.3 123.3 L542.1 158.1 L541 183.3 L497.6 214.8 L448.9 233.4 L372 239.2 L288.1 244.5 L219.3 228.8 L150.5 201.8 L126.9 163.8 L126.8 119.9 L149.4 80.3 L220.5 48.8 L309.9 31.8 L408.3 24.9 L506.5 39.3 L594.7 68.8"/>
-<circle class="s tw" cx="352.3" cy="141.8" r="1.6" style="animation-delay:0.30s,2.03s"/>
+<path class="path" d="M352.3 141.8 L378.8 134.5 L388.1 136.8 L410.2 142.7 L410.8 145.9 L421.6 155.7 L417.5 167.6 L412 175.6 L391.6 189.1 L354.3 195.8 L311.5 191.5 L285.4 187.9 L259.6 173.3 L241.4 159.8 L229.9 129.2 L248.7 109.6 L285.6 94.9 L321.6 87.4 L379.6 83.6 L434.4 90 L490.3 98.8 L521.1 125.9 L548.1 147 L536.6 179.5 L519 204.6 L467.4 222.4 L398.2 244.2 L329.4 247.3 L244.2 239 L187.9 216.6 L141.9 182.6 L110.6 144.9 L126.9 106.1 L168.7 72.5 L234.7 41.2 L322 26.1 L424.9 24.9 L516.1 39.9 L586.3 79.7"/>
+<circle class="s tw" cx="352.3" cy="141.8" r="1.6" style="animation-delay:0.30s,1.12s"/>
 <text class="lbl m" x="360.3" y="133.8" style="animation-delay:0.60s">2018 · hello, world</text>
-<circle class="s tw" cx="379.6" cy="134.4" r="1.6" style="animation-delay:0.42s,0.06s"/>
-<circle class="s tw" cx="390" cy="136.9" r="1.6" style="animation-delay:0.53s,0.32s"/>
-<circle class="s tw" cx="412.7" cy="143.6" r="1.6" style="animation-delay:0.65s,3.65s"/>
-<circle class="s tw" cx="413.1" cy="147.9" r="1.6" style="animation-delay:0.77s,1.12s"/>
-<circle class="s tw" cx="422" cy="158.8" r="1.6" style="animation-delay:0.88s,0.88s"/>
-<circle class="s tw" cx="414.4" cy="171.4" r="1.6" style="animation-delay:1.00s,1.82s"/>
-<circle class="s tw" cx="404.1" cy="179.4" r="1.6" style="animation-delay:1.12s,0.80s"/>
-<circle class="s tw" cx="378.5" cy="191.9" r="2.5" style="animation-delay:1.23s,1.15s"/>
-<circle class="s tw" cx="336.7" cy="196.3" r="1.6" style="animation-delay:1.35s,1.30s"/>
-<circle class="s tw" cx="291.7" cy="188.6" r="1.6" style="animation-delay:1.47s,1.92s"/>
-<circle class="s tw" cx="266.6" cy="180.8" r="1.6" style="animation-delay:1.58s,1.66s"/>
-<circle class="s tw" cx="246.1" cy="162.1" r="1.6" style="animation-delay:1.70s,2.05s"/>
-<circle class="s tw" cx="237.6" cy="145.4" r="1.6" style="animation-delay:1.82s,1.27s"/>
-<circle class="s tw" cx="239.4" cy="113.3" r="1.6" style="animation-delay:1.93s,1.95s"/>
-<circle class="s tw" cx="273.4" cy="94.6" r="1.6" style="animation-delay:2.05s,3.10s"/>
-<circle class="s tw" cx="325.1" cy="83.8" r="2.5" style="animation-delay:2.17s,2.62s"/>
-<circle class="halo" cx="372.6" cy="83" r="54" fill="url(#gw)" style="animation-delay:2.28s;transform-origin:372.6px 83px"/>
-<circle class="s" cx="372.6" cy="83" r="5" fill="#e8912d" style="animation-delay:2.28s"/>
-<text class="lbl" x="384.6" y="61" style="animation-delay:2.78s">HandWriter</text>
-<text class="lbl m" x="384.6" y="74" style="animation-delay:2.98s">1M+ installs</text>
-<circle class="s tw" cx="436.2" cy="88.1" r="1.6" style="animation-delay:2.40s,0.70s"/>
-<circle class="s tw" cx="488.3" cy="104.7" r="1.6" style="animation-delay:2.52s,1.10s"/>
-<circle class="s tw" cx="532.3" cy="123.3" r="1.6" style="animation-delay:2.63s,0.72s"/>
-<circle class="s tw" cx="542.1" cy="158.1" r="1.6" style="animation-delay:2.75s,0.70s"/>
-<circle class="s tw" cx="541" cy="183.3" r="1.6" style="animation-delay:2.87s,3.55s"/>
-<circle class="halo" cx="497.6" cy="214.8" r="46" fill="url(#g)" style="animation-delay:2.98s;transform-origin:497.6px 214.8px"/>
-<circle class="s" cx="497.6" cy="214.8" r="4.6" style="animation-delay:2.98s"/>
-<text class="lbl" x="509.6" y="234.8" style="animation-delay:3.48s">TelegramOnlineSpy ★528</text>
-<circle class="s tw" cx="448.9" cy="233.4" r="2.5" style="animation-delay:3.10s,1.79s"/>
-<circle class="s fork" cx="372" cy="239.2" r="2.4" style="animation-delay:3.22s"/>
-<circle class="s fork" cx="288.1" cy="244.5" r="2.4" style="animation-delay:3.33s"/>
-<circle class="s tw" cx="219.3" cy="228.8" r="2.5" style="animation-delay:3.45s,3.34s"/>
-<circle class="s fork" cx="150.5" cy="201.8" r="2.4" style="animation-delay:3.57s"/>
-<circle class="s fork" cx="126.9" cy="163.8" r="2.4" style="animation-delay:3.68s"/>
-<circle class="s tw" cx="126.8" cy="119.9" r="2.5" style="animation-delay:3.80s,2.80s"/>
-<circle class="s tw" cx="149.4" cy="80.3" r="3" style="animation-delay:3.92s,1.39s"/>
-<circle class="s tw" cx="220.5" cy="48.8" r="1.6" style="animation-delay:4.03s,3.60s"/>
-<circle class="s tw" cx="309.9" cy="31.8" r="1.6" style="animation-delay:4.15s,3.19s"/>
-<circle class="s tw" cx="408.3" cy="24.9" r="1.6" style="animation-delay:4.27s,3.25s"/>
-<circle class="s fork" cx="506.5" cy="39.3" r="2.4" style="animation-delay:4.38s"/>
-<circle class="s tw" cx="594.7" cy="68.8" r="1.6" style="animation-delay:4.50s,0.08s"/>
-<circle class="ring" cx="594.7" cy="68.8" r="5"/>
-<text class="lbl" x="606.7" y="72.8" style="animation-delay:4.80s">decide · now</text>
+<circle class="s tw" cx="378.8" cy="134.5" r="1.6" style="animation-delay:0.41s,0.88s"/>
+<circle class="s tw" cx="388.1" cy="136.8" r="1.6" style="animation-delay:0.52s,1.82s"/>
+<circle class="s tw" cx="410.2" cy="142.7" r="1.6" style="animation-delay:0.63s,0.80s"/>
+<circle class="s tw" cx="410.8" cy="145.9" r="1.6" style="animation-delay:0.74s,1.15s"/>
+<circle class="s tw" cx="421.6" cy="155.7" r="1.6" style="animation-delay:0.85s,1.30s"/>
+<circle class="s tw" cx="417.5" cy="167.6" r="1.6" style="animation-delay:0.96s,1.92s"/>
+<circle class="s tw" cx="412" cy="175.6" r="1.6" style="animation-delay:1.07s,1.66s"/>
+<circle class="s tw" cx="391.6" cy="189.1" r="2.5" style="animation-delay:1.18s,2.05s"/>
+<circle class="s tw" cx="354.3" cy="195.8" r="1.6" style="animation-delay:1.29s,1.27s"/>
+<circle class="s tw" cx="311.5" cy="191.5" r="1.6" style="animation-delay:1.41s,1.95s"/>
+<circle class="s tw" cx="285.4" cy="187.9" r="1.6" style="animation-delay:1.52s,3.10s"/>
+<circle class="s tw" cx="259.6" cy="173.3" r="1.6" style="animation-delay:1.63s,2.62s"/>
+<circle class="s tw" cx="241.4" cy="159.8" r="1.6" style="animation-delay:1.74s,0.70s"/>
+<circle class="s tw" cx="229.9" cy="129.2" r="1.6" style="animation-delay:1.85s,1.10s"/>
+<circle class="s tw" cx="248.7" cy="109.6" r="1.6" style="animation-delay:1.96s,0.72s"/>
+<circle class="s tw" cx="285.6" cy="94.9" r="2.5" style="animation-delay:2.07s,0.70s"/>
+<circle class="halo" cx="321.6" cy="87.4" r="54" fill="url(#gw)" style="animation-delay:2.18s;transform-origin:321.6px 87.4px"/>
+<circle class="s" cx="321.6" cy="87.4" r="5" fill="#e8912d" style="animation-delay:2.18s"/>
+<text class="lbl" x="333.6" y="65.4" style="animation-delay:2.68s">HandWriter</text>
+<text class="lbl m" x="333.6" y="78.4" style="animation-delay:2.88s">1M+ installs</text>
+<circle class="s tw" cx="379.6" cy="83.6" r="1.6" style="animation-delay:2.29s,3.55s"/>
+<circle class="s tw" cx="434.4" cy="90" r="1.6" style="animation-delay:2.40s,1.79s"/>
+<circle class="s tw" cx="490.3" cy="98.8" r="1.6" style="animation-delay:2.51s,3.34s"/>
+<circle class="s tw" cx="521.1" cy="125.9" r="1.6" style="animation-delay:2.62s,2.80s"/>
+<circle class="s tw" cx="548.1" cy="147" r="1.6" style="animation-delay:2.73s,1.39s"/>
+<circle class="halo" cx="536.6" cy="179.5" r="46" fill="url(#g)" style="animation-delay:2.84s;transform-origin:536.6px 179.5px"/>
+<circle class="s" cx="536.6" cy="179.5" r="4.6" style="animation-delay:2.84s"/>
+<text class="lbl" x="548.6" y="199.5" style="animation-delay:3.34s">TelegramOnlineSpy ★529</text>
+<circle class="s tw" cx="519" cy="204.6" r="2.5" style="animation-delay:2.95s,3.60s"/>
+<circle class="s fork" cx="467.4" cy="222.4" r="2.4" style="animation-delay:3.06s"/>
+<circle class="s fork" cx="398.2" cy="244.2" r="2.4" style="animation-delay:3.17s"/>
+<circle class="s tw" cx="329.4" cy="247.3" r="2.5" style="animation-delay:3.28s,3.19s"/>
+<circle class="s fork" cx="244.2" cy="239" r="2.4" style="animation-delay:3.39s"/>
+<circle class="s fork" cx="187.9" cy="216.6" r="2.4" style="animation-delay:3.51s"/>
+<circle class="s tw" cx="141.9" cy="182.6" r="2.5" style="animation-delay:3.62s,3.25s"/>
+<circle class="s tw" cx="110.6" cy="144.9" r="3" style="animation-delay:3.73s,0.08s"/>
+<circle class="s tw" cx="126.9" cy="106.1" r="1.6" style="animation-delay:3.84s,3.01s"/>
+<circle class="s tw" cx="168.7" cy="72.5" r="1.6" style="animation-delay:3.95s,1.93s"/>
+<circle class="s tw" cx="234.7" cy="41.2" r="1.6" style="animation-delay:4.06s,0.45s"/>
+<circle class="s fork" cx="322" cy="26.1" r="2.4" style="animation-delay:4.17s"/>
+<circle class="s tw" cx="424.9" cy="24.9" r="2.5" style="animation-delay:4.28s,3.41s"/>
+<circle class="s tw" cx="516.1" cy="39.9" r="3" style="animation-delay:4.39s,0.11s"/>
+<circle class="ring" cx="516.1" cy="39.9" r="5"/>
+<text class="lbl" x="528.1" y="43.9" style="animation-delay:4.69s">Agent-Notch · now</text>
+<circle class="s tw" cx="586.3" cy="79.7" r="1.6" style="animation-delay:4.50s,0.55s"/>
 <line class="shoot" x1="640" y1="30" x2="700" y2="6"/>
 </svg>
