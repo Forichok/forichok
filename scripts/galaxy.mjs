@@ -10,6 +10,8 @@ const EXTRA_REPOS = ["aqulasoft/DisYam"];
 const APPS = [{ name: "HandWriter", created: "2019-04", label: "1M+ installs" }];
 // Helper repos that stay on the spiral but never take the "now" label.
 const NOT_NOW = ["homebrew-tap"];
+// Projects that keep their name on the map after a newer one takes "now".
+const NAMED = ["decide"];
 
 const THEMES = {
   light: { sky: "#fbfcfe", star: "#1b2a4a", path: "#1b2a4a", halo: "#7aa7ff", warm: "#e8912d", fg: "#1f2328", mut: "#59636e" },
@@ -68,8 +70,8 @@ function render(stars, c) {
   const brightest = pts.filter(p => !p.app && !p.fork).reduce((a, b) => (b.stars > a.stars ? b : a));
   const newest = pts.findLast(p => !p.app && !NOT_NOW.includes(p.name));
   const at = k => (.3 + DRAW * k).toFixed(2);
-  const label = (x, y, text, cls, delay) =>
-    out.push(`<text class="lbl${cls ? " " + cls : ""}" x="${f(x)}" y="${f(y)}" style="animation-delay:${delay}s">${esc(text)}</text>`);
+  const label = (x, y, text, cls, delay, anchor) =>
+    out.push(`<text class="lbl${cls ? " " + cls : ""}" x="${f(x)}" y="${f(y)}"${anchor ? ` text-anchor="${anchor}"` : ""} style="animation-delay:${delay}s">${esc(text)}</text>`);
 
   pts.forEach((p, i) => {
     const d = at(p.k);
@@ -91,6 +93,7 @@ function render(stars, c) {
       ? `<circle class="s fork" cx="${f(p.x)}" cy="${f(p.y)}" r="${r}" style="animation-delay:${d}s"/>`
       : `<circle class="s tw" cx="${f(p.x)}" cy="${f(p.y)}" r="${f(r)}" style="animation-delay:${d}s,${(rnd() * 4).toFixed(2)}s"/>`);
     if (i === 0) label(p.x + 8, p.y - 8, `${p.created.slice(0, 4)} · hello, world`, "m", (+d + .3).toFixed(2));
+    if (p !== newest && NAMED.includes(p.name)) label(p.x - 10, p.y - 10, p.name, "", (+d + .3).toFixed(2), "end");
     if (p === newest) {
       out.push(`<circle class="ring" cx="${f(p.x)}" cy="${f(p.y)}" r="5"/>`);
       label(p.x + 12, p.y + 4, `${p.name} · now`, "", (+d + .3).toFixed(2));
