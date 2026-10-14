@@ -143,7 +143,7 @@
 <circle class="s tw" cx="548.1" cy="147" r="1.6" style="animation-delay:2.73s,1.39s"/>
 <circle class="halo" cx="536.6" cy="179.5" r="46" fill="url(#g)" style="animation-delay:2.84s;transform-origin:536.6px 179.5px"/>
 <circle class="s" cx="536.6" cy="179.5" r="4.6" style="animation-delay:2.84s"/>
-<text class="lbl" x="548.6" y="199.5" style="animation-delay:3.34s">TelegramOnlineSpy ★529</text>
+<text class="lbl" x="548.6" y="199.5" style="animation-delay:3.34s">TelegramOnlineSpy ★528</text>
 <circle class="s tw" cx="519" cy="204.6" r="2.5" style="animation-delay:2.95s,3.60s"/>
 <circle class="s fork" cx="467.4" cy="222.4" r="2.4" style="animation-delay:3.06s"/>
 <circle class="s fork" cx="398.2" cy="244.2" r="2.4" style="animation-delay:3.17s"/>
@@ -157,6 +157,7 @@
 <circle class="s tw" cx="234.7" cy="41.2" r="1.6" style="animation-delay:4.06s,0.45s"/>
 <circle class="s fork" cx="322" cy="26.1" r="2.4" style="animation-delay:4.17s"/>
 <circle class="s tw" cx="424.9" cy="24.9" r="2.5" style="animation-delay:4.28s,3.41s"/>
+<text class="lbl" x="414.9" y="14.9" text-anchor="end" style="animation-delay:4.58s">decide</text>
 <circle class="s tw" cx="516.1" cy="39.9" r="3" style="animation-delay:4.39s,0.11s"/>
 <circle class="ring" cx="516.1" cy="39.9" r="5"/>
 <text class="lbl" x="528.1" y="43.9" style="animation-delay:4.69s">Agent-Notch · now</text>
