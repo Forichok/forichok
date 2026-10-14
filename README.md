@@ -5,13 +5,14 @@
   </picture>
 </p>
 
-<p align="center"><samp>36 repos · 1M+ installs · since 2018</samp></p>
+<p align="center"><samp>38 repos · 1M+ installs · since 2018</samp></p>
 
 <p align="center"><samp>
   <a href="https://github.com/Forichok/TelegramOnlineSpy">TelegramOnlineSpy</a> ·
   <a href="https://handwriter.ru">HandWriter</a> ·
   <a href="https://github.com/aqulasoft/DisYam">DisYam</a> ·
-  <a href="https://github.com/Forichok/decide">decide</a>
+  <a href="https://github.com/Forichok/decide">decide</a> ·
+  <a href="https://github.com/Forichok/Agent-Notch">Agent Notch</a>
 </samp></p>
 
 <p align="center"><samp>

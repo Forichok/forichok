@@ -8,6 +8,8 @@ const USER = "Forichok";
 const EXTRA_REPOS = ["aqulasoft/DisYam"];
 // Not on GitHub: the Android app and handwriter.ru.
 const APPS = [{ name: "HandWriter", created: "2019-04", label: "1M+ installs" }];
+// Helper repos that stay on the spiral but never take the "now" label.
+const NOT_NOW = ["homebrew-tap"];
 
 const THEMES = {
   light: { sky: "#fbfcfe", star: "#1b2a4a", path: "#1b2a4a", halo: "#7aa7ff", warm: "#e8912d", fg: "#1f2328", mut: "#59636e" },
@@ -64,7 +66,7 @@ function render(stars, c) {
     return { ...s, k, x: CX + Math.cos(th) * rr * 2.25 + jx, y: CY + Math.sin(th) * rr + jy };
   });
   const brightest = pts.filter(p => !p.app && !p.fork).reduce((a, b) => (b.stars > a.stars ? b : a));
-  const newest = pts[n - 1];
+  const newest = pts.findLast(p => !p.app && !NOT_NOW.includes(p.name));
   const at = k => (.3 + DRAW * k).toFixed(2);
   const label = (x, y, text, cls, delay) =>
     out.push(`<text class="lbl${cls ? " " + cls : ""}" x="${f(x)}" y="${f(y)}" style="animation-delay:${delay}s">${esc(text)}</text>`);
